@@ -1,0 +1,1 @@
+Monte Carlo simulation in Python that estimates the probability of seeing 3 earthquakes on the same date over a span of 37 years Programmed a Monte Carlo simulation in Python to estimate the probability of seeing 3 earthquakes on the same date over a span of 37 years using historical data from UNAM.
